@@ -10,7 +10,7 @@ Crypto Wallets-
 5.🔥 Qurtex, expert option, poket options etc broker site Diposit 
 
 
-What networks And Wallet does it work on
+What networks And Wallet does  it work on
 sᴏғᴛᴡᴀʀᴇ
 1. Server base application
 2. Blockchain Technology
